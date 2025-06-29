@@ -1,2 +1,2 @@
 def welcome() -> str:
-    return "Hello, World!"
+    return "Hello, World"
